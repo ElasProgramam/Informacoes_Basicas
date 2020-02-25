@@ -7,7 +7,7 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 
 ## Qual é a sua?
 
-A área e TI é muito vasta e muitas vezes é difícil definir um ponto de partida. Pior quando nossos gostos pessoais parecem contrastar com os emaranhados de exigências infinitas do mercado. Às vezes você decidiu aprender Python e só encontra vagas de PHP. Ou você ficou realmente boa no Javascript, mas as vagas pedem fullstacks que conheçam React, .NET e SQL Server. Ou você gosta de redes e infraestrutura mas só encontra vagas para dev Java. Tudo isso só aumenta a confusão. Mas estamos aqui pra ajudar!
+A área de Tecnologia da Informação (TI) é muito vasta e muitas vezes é difícil definir um ponto de partida. Pior quando nossos gostos pessoais parecem contrastar com os emaranhados de exigências infinitas do mercado. Às vezes você decidiu aprender Python e só encontra vagas de PHP. Ou você ficou realmente boa no Javascript, mas as vagas pedem fullstacks que conheçam React, .NET e SQL Server. Ou você gosta de redes e infraestrutura mas só encontra vagas para dev Java. Tudo isso só aumenta a confusão. Mas estamos aqui pra ajudar!
 
 Primeiro de tudo é importante que identificar qual área você tem mais afinidade e quer seguir (pelo menos a princípio). Então se você:
 
@@ -52,6 +52,14 @@ O mundo da tecnologia
 - CSS
 - Javascript
 
+## Mobile IOS
+- Overview
+
+## Mobile Android
+- Overview
+
+## Mobile Híbrido
+- Overview
 
 ## Banco de dados
 
