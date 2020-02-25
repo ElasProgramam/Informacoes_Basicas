@@ -62,7 +62,7 @@ Bancos de dados relacionais
 - MySQL
 - PostgreSQL
 
-Bancos de da dos não relacionais
+Bancos de dados não relacionais
 
 - MongoDB
 - MariaDB
