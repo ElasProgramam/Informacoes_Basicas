@@ -21,9 +21,6 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 - Como fazer pesquisas e tirar dúvidas?
 - Baixando um editor
 
-## Pra onde eu vou?
-
-O mundo da tecnologia
 
 ## Backend-end
 
@@ -75,6 +72,10 @@ Bancos de dados não relacionais
 - Kubernetes
 
 ## AI
+
+- Overview
+
+## Machine learning
 
 - Overview
 
