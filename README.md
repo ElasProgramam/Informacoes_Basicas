@@ -28,10 +28,19 @@ Faltou aqui: IA, Machine learning
 
 # Tabela de Conteúdos
 
-## Geral
+## Principais dúvidas
 
-Por onde começar?
-Lógica de programação: a base de tudo
+ - [Eu preciso saber inglês?](00-principais-duvidas/preciso-saber-ingles.md)
+ - Eu preciso gostar de matemática?
+ - Será que tenho perfil para entrar na área?
+ - Sistema operacional: Windows, Linux ou Mac?
+
+## Por onde começar?
+
+- Identificando sua área de interesse
+- [Lógica de programação: a base de tudo](01-por-onde-comecar/logica-de-programacao.md)
+- Como tirar dúvidas?
+- Baixando um editor
 
 ## Pra onde eu vou?
 
