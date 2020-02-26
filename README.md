@@ -16,37 +16,41 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 
 ## Por onde começar?
 
+
+### Geral
+
 - [Identificando sua área de interesse](01-por-onde-comecar/area-de-interesse.md)
 - [Lógica de programação: a base de tudo](01-por-onde-comecar/logica-de-programacao.md)
-- Como fazer pesquisas e tirar dúvidas?
 - Baixando um editor
+- Como fazer pesquisas e tirar dúvidas?
 
 
-## Backend-end
+### Backend-end
 
+- [Java](01-por-onde-comecar/como-comecar-estudar-java.md)
 - Overview
 - NodeJS
-- Java
 - Python
 - PHP
 
-## Front-end
+### Front-end
 
 - Overview
 - HTML5
 - CSS
 - Javascript
 
-## Mobile IOS
+### Mobile IOS
+
 - Overview
 
-## Mobile Android
+### Mobile Android
 - Overview
 
-## Mobile Híbrido
+### Mobile Híbrido
 - Overview
 
-## Banco de dados
+### Banco de dados
 
 - Overview
 
@@ -61,24 +65,24 @@ Bancos de dados não relacionais
 - MariaDB
 - Cassandra
 
-## Testes/QA
+### Testes/QA
 
 - Overview
 
-## Devops
+### Devops
 
 - Overview
 - Docker
 - Kubernetes
 
-## AI
+### AI
 
 - Overview
 
-## Machine learning
+### Machine learning
 
 - Overview
 
-## Blockchain
+### Blockchain
 
 - Overview
