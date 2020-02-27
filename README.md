@@ -5,7 +5,7 @@ Repositório para estruturar fluxo de informações básicas para as participant
 
 Para todas que estão iniciando os estudos e carreira como profissionais de TI. Queremos te ajudar a seguir um caminho orientando o que, como e porque estudar.
 
-# Tabela de Conteúdos
+# Tópicos
 
 ## Principais dúvidas
 
@@ -21,14 +21,14 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 
 - [Identificando sua área de interesse](01-por-onde-comecar/area-de-interesse.md)
 - [Lógica de programação: a base de tudo](01-por-onde-comecar/logica-de-programacao.md)
-- Baixando um editor
+- [Usando um editor ou IDE](01-por-onde-comecar/editores-e-ides.md);
 - Como fazer pesquisas e tirar dúvidas?
 
 
 ### Backend-end
 
-- [Java](01-por-onde-comecar/como-comecar-estudar-java.md)
 - Overview
+- [Java](01-por-onde-comecar/como-comecar-estudar-java.md)
 - NodeJS
 - Python
 - PHP
