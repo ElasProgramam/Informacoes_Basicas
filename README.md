@@ -5,48 +5,52 @@ Repositório para estruturar fluxo de informações básicas para as participant
 
 Para todas que estão iniciando os estudos e carreira como profissionais de TI. Queremos te ajudar a seguir um caminho orientando o que, como e porque estudar.
 
-# Tabela de Conteúdos
+# Tópicos
 
 ## Principais dúvidas
 
  - [Eu preciso saber inglês?](00-principais-duvidas/preciso-saber-ingles.md)
- - Eu preciso gostar de matemática?
+ - [Eu preciso ser boa em matemática?](00-principais-duvidas/preciso-gostar-de-matematica.md)
  - Será que tenho perfil para entrar na área?
  - Sistema operacional: Windows, Linux ou Mac?
 
 ## Por onde começar?
 
+
+### Geral
+
 - [Identificando sua área de interesse](01-por-onde-comecar/area-de-interesse.md)
 - [Lógica de programação: a base de tudo](01-por-onde-comecar/logica-de-programacao.md)
+- [Usando um editor ou IDE](01-por-onde-comecar/editores-e-ides.md);
 - Como fazer pesquisas e tirar dúvidas?
-- Baixando um editor
 
 
-## Backend-end
+### Backend-end
 
 - Overview
+- [Java](01-por-onde-comecar/como-comecar-estudar-java.md)
 - NodeJS
-- Java
 - Python
 - PHP
 
-## Front-end
+### Front-end
 
 - Overview
 - HTML5
 - CSS
 - Javascript
 
-## Mobile IOS
+### Mobile IOS
+
 - Overview
 
-## Mobile Android
+### Mobile Android
 - Overview
 
-## Mobile Híbrido
+### Mobile Híbrido
 - Overview
 
-## Banco de dados
+### Banco de dados
 
 - Overview
 
@@ -61,25 +65,25 @@ Bancos de dados não relacionais
 - MariaDB
 - Cassandra
 
-## Testes/QA
+### Testes/QA
 
 - Overview
 
-## Devops
+### Devops
 
 - Overview
 - Docker
 - Kubernetes
 
-## AI
+### AI
 
 - Overview
 
-## Machine learning
+### Machine learning
 
 - Overview
 
-## Blockchain
+### Blockchain
 
 - Overview
 
