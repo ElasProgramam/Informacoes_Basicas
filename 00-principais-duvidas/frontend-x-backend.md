@@ -1,3 +1,5 @@
+# Qual a diferença entre Front-end e Back-end ?
+
 Agora que você aprendeu a lógica de programação, é necessário entender alguns conceitos antes de iniciar o próximo curso.
 
 Primeiro, veremos na prática a diferença entre back-end e front-end:
