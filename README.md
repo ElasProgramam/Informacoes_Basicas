@@ -10,7 +10,7 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 ## Principais dúvidas
 
  - [Eu preciso saber inglês?](00-principais-duvidas/preciso-saber-ingles.md)
- - [Eu preciso ser boa em matemática?](00-principais-duvidas/preciso-gostar-de-matematica.md)
+ - Eu preciso ser boa em matemática?
  - Será que tenho perfil para entrar na área?
  - Sistema operacional: Windows, Linux ou Mac?
 
