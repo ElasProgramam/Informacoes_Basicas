@@ -28,7 +28,7 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 ### Backend-end
 
 - Overview
-- [Java](01-por-onde-comecar/como-comecar-estudar-java.md)
+- [Java](01-por-onde-comecar/back-end/java/como-comecar-estudar-java.md) | [Materiais de apoio](01-por-onde-comecar/back-end/java/materiais-de-apoio-java.md)
 - NodeJS
 - Python
 - PHP
