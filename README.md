@@ -5,7 +5,7 @@ Repositório para estruturar fluxo de informações básicas para as participant
 
 Para todas que estão iniciando os estudos e carreira como profissionais de TI. Queremos te ajudar a seguir um caminho orientando o que, como e porque estudar.
 
-Quer contribuir? Siga as instruções [aqui](./extras/como-contribuir.md).
+**Quer contribuir?** Siga as instruções [aqui](./extras/como-contribuir.md).
 
 # Tópicos
 

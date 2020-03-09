@@ -10,7 +10,7 @@ Para submeter o seu texto nesse repositório, siga o procedimento a seguir:
 
 ## Criando um artigo
 
-[📄Template de base](./template_novo.md)
+[📄Template de base](./template-novo.md)
 
 Crie um novo arquivo _.md_ e escreva um artigo do seu tema de interesse utilizando como base o template acima. Procure manter a organização das pastas que estão divididas de acordo com os tópicos.
 
@@ -25,7 +25,7 @@ Faça um pull request descrevendo no comentário o que você está subindo.
 
 ## Revise um texto que já existe na base
 
-[📄Template de base](./template_revisao.md)
+[📄Template de base](./template-revisao.md)
 
 Edite um arquivo _.md_ existente e inclua o tópico de revisão, como no modelo do template indicado acima.
 
