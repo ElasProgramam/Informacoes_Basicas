@@ -39,7 +39,7 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 - Overview
 - HTML5
 - CSS
-- Javascript
+- [Javascript](01-por-onde-comecar/front-end/javascript/javascript-comecando.md)
 
 ### Mobile IOS
 
