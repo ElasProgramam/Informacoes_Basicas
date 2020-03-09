@@ -1,10 +1,12 @@
 # Lógica de programação: essencial
 
-por [@alegalliard](https://github.com/alegalliard)
+_por [@alegalliard](https://github.com/alegalliard)_
 
-Se aprender uma linguagem de programação é o mesmo que conhecer as palavras soltas de uma outra língua, a lógica é o equivalente à gramática: somente ordenando as palavras em uma determinada sequência e usando as regras corretas é que você conseguirá escrever programa.
+Se aprender uma linguagem de programação é o mesmo que conhecer as palavras soltas de uma outra língua, a lógica é o equivalente à gramática: somente ordenando as palavras em uma determinada sequência e usando as regras corretas é que você conseguirá escrever um programa.
 
-Escrever um bom programa depende de como a comunicadora - você - "conversa" com o computador. Se você passar as instruções gramaticais erradas ou dúbias, o computador vai fazer o que você não esperava gerando assim um bug. Se a instrução não estiver com o formato que o computador espera aparecerá um erro como quem diz _"não entendi isso que você quis dizer, estou parando aqui até você corrigir seu comando"_.
+Escrever um bom programa depende de como a comunicadora - você - "conversa" com o computador. 
+
+Se você passar as instruções gramaticais erradas ou dúbias, o computador vai fazer o que você não esperava gerando assim um bug. Se a instrução não estiver com o formato que o computador espera aparecerá um erro como quem diz _"não entendi isso que você quis dizer, estou parando aqui até você corrigir seu comando"_.
 
 Então pense em um computador como um gringo com um português muito básico e que ainda por cima interpreta as coisas muito literalmente. Se você disser a ele:
 
