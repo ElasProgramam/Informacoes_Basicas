@@ -10,10 +10,10 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 ## Principais dúvidas
 
  - [Eu preciso saber inglês?](00-principais-duvidas/preciso-saber-ingles.md)
- - Eu preciso ser boa em matemática?
+ - [Eu preciso gostar de matemática?](00-principais-duvidas/preciso-gostar-de-matematica.md)  🆕
  - Será que tenho perfil para entrar na área?
  - Sistema operacional: Windows, Linux ou Mac?
- - [Qual a diferença entre Front-end e Back-end?](00-principais-duvidas/frontend-x-backend.md)
+ - [Qual a diferença entre Front-end e Back-end?](00-principais-duvidas/frontend-x-backend.md)  🆕
 
 ## Por onde começar?
 
@@ -21,8 +21,8 @@ Para todas que estão iniciando os estudos e carreira como profissionais de TI. 
 ### Geral
 
 - [Identificando sua área de interesse](01-por-onde-comecar/area-de-interesse.md)
-- [Lógica de programação: a base de tudo](01-por-onde-comecar/logica-de-programacao.md)
-- [Usando um editor ou IDE](01-por-onde-comecar/editores-e-ides.md);
+- [Lógica de programação: a base de tudo](01-por-onde-comecar/logica-de-programacao.md)  🆕
+- [Usando um editor ou IDE](01-por-onde-comecar/editores-e-ides.md)
 - Como fazer pesquisas e tirar dúvidas?
 
 
